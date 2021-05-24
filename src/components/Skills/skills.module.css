@@ -15,8 +15,8 @@
 }
 
 .customProgressBar {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 @media screen and (max-width: 900px) {
