@@ -4,21 +4,20 @@
 
 ### Demo Video
 
-:link: https://youtu.be/ZamUKgjzB3Q
+### Link :link: https://own-portfolio-git-main-nethunter1121-gmailcom.vercel.app/
+### Link :link: https://nikanor-korchnev.web.app/
 
-### Link :link: https://developer-junaid.web.app/
+## Images 
 
-## Images
-
-<img src='./project_images/portfolio.png/' />
+<!-- <img src='./project_images/portfolio.png/' /> -->
 
 ## Mobile Responsive
 
-<img src='./project_images/mobile.png/' />
+<!-- <img src='./project_images/mobile.png/' /> -->
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/DeveloperFolio.git`
+- Run this command `git clone https://github.com/webdev0831/own_portfolio.git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack
@@ -35,4 +34,5 @@
 - - framer-motion
 
 - Firebase
+- vercel
 - Github Actions
