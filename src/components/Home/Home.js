@@ -73,7 +73,7 @@ const Home = () => {
         <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
-          Hi, I’m Nikanor Korchnev
+          Hi, I’m Oleg Khurtin
           <motion.span
             drag={true}
             dragConstraints={{ left: 0, top: 0, bottom: 0, right: 0 }}
@@ -112,7 +112,7 @@ const Home = () => {
                 animate="animate"
                 initial="initial"
               >
-                Streaming/WebRTC Developer
+                BlockChain Developer
               </motion.h2>
             )}
           </AnimatePresence>
@@ -122,7 +122,7 @@ const Home = () => {
         <h1>
           {" "}
           from Russia{" "}
-          <span role="img" aria-label="Pakistan Flag">
+          <span role="img" aria-label="Russia Flag">
             🇷🇺
           </span>
         </h1>
@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/1LLWkh1vitBdVWb0A3pq_GrfmMeBgSkow/view"
+            href="https://drive.google.com/file/d/13q0prL6xyJqPQPDRJNKuTnnnwuy-X8MY/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

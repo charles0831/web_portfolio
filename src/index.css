@@ -316,6 +316,18 @@ body {
   background-repeat: no-repeat;
 }
 
+#nftapp {
+  background-image: url("./images/projects/nftapp.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#uniclixapp {
+  background-image: url("./images/projects/uniclixapp.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 #umkapp {
   background-image: url("./images/projects/umkapp.png");
   background-size: cover;
@@ -402,7 +414,7 @@ body {
   width: 170px;
   border-color: black;
   border-radius: 50%;
-  background-image: url("./images/nikanor.png");
+  background-image: url("./images/oleg.png");
   background-size: cover;
   height: 170px;
 }

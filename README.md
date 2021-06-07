@@ -4,8 +4,7 @@
 
 ### Demo Video
 
-### Link :link: https://own-portfolio-git-main-nethunter1121-gmailcom.vercel.app/
-### Link :link: https://nikanor-korchnev.web.app/
+### Link :link: https://oleg-k.web.app/
 
 ## Images 
 

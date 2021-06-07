@@ -42,7 +42,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831"
+                href="https://github.com/webdev0831/react-brainsshare"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -51,6 +51,94 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 href="https://brainsshare.com/"
+                target="_blank"
+              >
+                {" "}
+                <i
+                  className="fas fa-external-link-alt"
+                  title="live preview"
+                  id="live"
+                ></i>
+              </a>
+            </div>
+          </div>
+        </motion.div>
+        {/* // */}
+
+        {/* Project - NFT Manager App */}
+        <motion.div
+          variants={boxVariants}
+          whileHover="hover"
+          className="projects"
+        >
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://nfa-v1.web.app/"
+          >
+            <div className="project-images" id="nftapp"></div>
+          </a>
+          <div className="project-links">
+            <div className="text">
+              <h3>NFT App</h3>
+            </div>
+            <div className="icons">
+              <a
+                rel="noopener noreferrer"
+                target="_blank"
+                href="https://github.com/webdev0831/NFT-project"
+              >
+                <i className="fab fa-github" title="github repo" id="github">
+                  {" "}
+                </i>
+              </a>
+              <a
+                rel="noopener noreferrer"
+                href="https://nfa-v1.web.app/"
+                target="_blank"
+              >
+                {" "}
+                <i
+                  className="fas fa-external-link-alt"
+                  title="live preview"
+                  id="live"
+                ></i>
+              </a>
+            </div>
+          </div>
+        </motion.div>
+        {/* // */}
+
+        {/* Project - uniclix Manager App */}
+        <motion.div
+          variants={boxVariants}
+          whileHover="hover"
+          className="projects"
+        >
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://uniclixapp.com/"
+          >
+            <div className="project-images" id="uniclixapp"></div>
+          </a>
+          <div className="project-links">
+            <div className="text">
+              <h3>Uniclix App</h3>
+            </div>
+            <div className="icons">
+              <a
+                rel="noopener noreferrer"
+                target="_blank"
+                href="https://github.com/webdev0831/uniclix_app"
+              >
+                <i className="fab fa-github" title="github repo" id="github">
+                  {" "}
+                </i>
+              </a>
+              <a
+                rel="noopener noreferrer"
+                href="https://uniclixapp.com/"
                 target="_blank"
               >
                 {" "}
@@ -187,51 +275,6 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 href="https://gps.nfinity.pl/"
-                target="_blank"
-              >
-                <i
-                  className="fas fa-external-link-alt"
-                  title="live preview"
-                  id="live"
-                ></i>
-              </a>
-            </div>
-          </div>
-        </motion.div>
-        {/* // */}
-        {/* Project - Uber Eats Landing */}
-        <motion.div
-          className="projects"
-          variants={boxVariants}
-          whileHover="hover"
-        >
-          <a
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://umk.nfinity.pl/"
-          >
-            <div className="project-images" id="umkapp"></div>
-          </a>
-
-          <div className="project-links">
-            <div className="text">
-              <h3>UMK app</h3>
-            </div>
-            <div className="icons">
-              <a
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://github.com/webdev0831"
-              >
-                <i
-                  className="fab fa-github"
-                  title="github repo"
-                  id="github"
-                ></i>
-              </a>
-              <a
-                rel="noopener noreferrer"
-                href="https://umk.nfinity.pl/"
                 target="_blank"
               >
                 <i

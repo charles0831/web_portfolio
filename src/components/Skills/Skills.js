@@ -7,7 +7,7 @@ const CustomProgressBar = ({ completed, label }) => {
   return (
     <div className={classes.customProgressBar}>
       <span>{label}</span>
-      <ProgressBar completed={completed} bgColor={"green"} height={"15px"} />
+      <ProgressBar completed={completed} bgColor={"green"} height={"5px"} labelColor={"blue"} labelAlignment={"outside"} />
     </div>
   )
 }
@@ -23,11 +23,12 @@ const Skills = () => {
       <h1 className="heading">What I Am Good At &nbsp;&nbsp;?</h1>
 
       <div className={classes.techs}>
-        <CustomProgressBar completed={90} label="React JS function: ES6, React Redux, React Hooks, Redux Thunk" />
+        <CustomProgressBar completed={94} label="React JS function: ES6, React Redux, React Hooks, Redux Thunk" />
         <CustomProgressBar completed={93} label="React UI Framework: Material-Ui, EasyDev, Prime React, Elemental UI" />
         <CustomProgressBar completed={95} label="API implementation: REST API, GraphQL, JSON, WebSocket" />
-        <CustomProgressBar completed={80} label="Unit test: jest, mocha" />
-        <CustomProgressBar completed={98} label="Database: Git/Bitbucket, Asana/Trello, Docker, CI/CD" />
+        <CustomProgressBar completed={90} label="Blockchain: smart contract, NFT, solidity" />
+        <CustomProgressBar completed={84} label="Unit test: jest, mocha" />
+        <CustomProgressBar completed={93} label="Database: Git/Bitbucket, Asana/Trello, Docker, CI/CD" />
         <CustomProgressBar completed={94} label="MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Elasticsearch" />
         <CustomProgressBar completed={93} label="Back-end frameworks: Express.js, Django, ASP.NET, Laravel" />
         <CustomProgressBar completed={97} label="Server-side programming languages: Node.js, PHP, C#, Python" />

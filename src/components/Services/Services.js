@@ -28,7 +28,7 @@ const Services = () => {
         <div className="services">
           <li>
             <img src={uiImage} alt="" />
-            <p>Backend Web Development</p>
+            <p>Blockchain Development</p>
           </li>
         </div>
         <div className="services">
