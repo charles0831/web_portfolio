@@ -11,7 +11,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Oleg Khurtin
+          Andrei Abdulin
         </a>{" "}
       </h2>
     </div>
