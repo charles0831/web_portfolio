@@ -4,7 +4,7 @@
 
 ### Demo Video
 
-### Link :link: https://oleg-k.web.app/
+### Link :link: https://Aik-Lachikyan.vercel.app/
 
 ## Images 
 
@@ -16,7 +16,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/webdev0831/own_portfolio.git`
+- Run this command `git clone https://github.com/alachikyan.git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack

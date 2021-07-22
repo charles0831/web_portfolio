@@ -23,10 +23,10 @@ const Skills = () => {
       <h1 className="heading">What I Am Good At &nbsp;&nbsp;?</h1>
 
       <div className={classes.techs}>
-        <CustomProgressBar completed={94} label="React JS function: ES6, React Redux, React Hooks, Redux Thunk" />
+        <CustomProgressBar completed={94} label="React JS function: ES6, React Redux, React Hooks" />
         <CustomProgressBar completed={93} label="React UI Framework: Material-Ui, EasyDev, Prime React, Elemental UI" />
         <CustomProgressBar completed={95} label="API implementation: REST API, GraphQL, JSON, WebSocket" />
-        <CustomProgressBar completed={90} label="Blockchain: smart contract, NFT, solidity" />
+        <CustomProgressBar completed={90} label="Blockchain: Smart contract, NFT, Solidity" />
         <CustomProgressBar completed={84} label="Unit test: jest, mocha" />
         <CustomProgressBar completed={93} label="Database: Git/Bitbucket, Asana/Trello, Docker, CI/CD" />
         <CustomProgressBar completed={94} label="MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Elasticsearch" />

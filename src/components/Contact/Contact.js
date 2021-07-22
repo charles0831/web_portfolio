@@ -17,12 +17,12 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>fullstack831@gmail.com</span>
+            <span>alachikyan@outlook.com</span>
           </div>
         </div>
 
         {/* Card 2 - Social Media */}
-        {/* <div className="cards">
+        <div className="cards">
           <div className="contact-icons">
             <i className="fas fa-globe"></i>
           </div>
@@ -33,28 +33,28 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/webdev0831/"
+              href="https://github.com/alachikyan/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
 
-            <a
+            {/* <a
               rel="noopener noreferrer"
               target="_blank"
               href="https://www.facebook.com/profile.php?id=100041078220896123"
             >
               <i className="fab fa-facebook" title="facebook" id="facebook"></i>
-            </a>
+            </a> */}
 
-            <a
+            {/* <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/Oleg_Khurtin/"
+              href="https://www.linkedin.com/in/Aik Lachikyan-912296215/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
-            </a>
+            </a> */}
 
-            <a
+            {/* <a
               rel="noopener noreferrer"
               target="_blank"
               href="https://twitter.com/Oleg_Khurtin084869/"
@@ -72,12 +72,12 @@ const Contact = () => {
                 title="instagram"
                 id="instagram"
               ></i>
-            </a>
+            </a> */}
           </div>
-        </div> */}
+        </div>
 
         {/* Card 3 - Phone */}
-        <div className="cards">
+        {/* <div className="cards">
           <div className="contact-icons">
             <i className="fas fa-phone"></i>
           </div>
@@ -85,9 +85,9 @@ const Contact = () => {
             <span>Phone</span>
           </div>
           <div className="contact-links">
-            <span>+7 (950) 207-16-56</span>
+            <span>+491743678118</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
