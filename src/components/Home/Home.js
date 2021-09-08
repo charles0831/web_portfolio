@@ -73,7 +73,7 @@ const Home = () => {
         <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
-          Hi, I’m Aik Lachikyan
+          Hi, I’m Yaroslav Derevianchenko
           <motion.span
             drag={true}
             dragConstraints={{ left: 0, top: 0, bottom: 0, right: 0 }}
@@ -134,13 +134,13 @@ const Home = () => {
           >
             Contact Me
           </button>
-          {/* <a
-            href="https://drive.google.com/file/d/1WpOmf7ZBoIm7xNVc0L8ZsR2mv7arAw6o/view?usp=sharing"
+          <a
+            href="https://drive.google.com/file/d/14VFPmuAi14gSakosDazUW1uDqLOSIA6O/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
             <button className="button">Resume</button>
-          </a> */}
+          </a>
         </div>
       </motion.div>
 

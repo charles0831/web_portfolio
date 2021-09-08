@@ -17,7 +17,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>alachikyan@outlook.com</span>
+            {/* <span>derevianchenkoy@gmail.com</span> */}
           </div>
         </div>
 
@@ -33,7 +33,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/alachikyan/"
+              href="https://github.com/webdev0831/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
@@ -49,7 +49,7 @@ const Contact = () => {
             {/* <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/Aik Lachikyan-912296215/"
+              href="https://www.linkedin.com/in/Yaroslav Derevianchenko-912296215/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a> */}
