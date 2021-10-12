@@ -73,7 +73,7 @@ const Home = () => {
         <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
-          Hi, I’m Yaroslav Derevianchenko
+          Hi, I’m Charles Kao
           <motion.span
             drag={true}
             dragConstraints={{ left: 0, top: 0, bottom: 0, right: 0 }}
@@ -121,8 +121,8 @@ const Home = () => {
 
         <h1>
           {" "}
-          from Ukraine{" "}
-          <span role="img" aria-label="Ukraine Flag emoji">
+          from Singapore{" "}
+          <span role="img" aria-label="Singapore Flag emoji">
             🇺🇦
           </span>
         </h1>
@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/14VFPmuAi14gSakosDazUW1uDqLOSIA6O/view?usp=sharing"
+            href="https://drive.google.com/file/d/1THFeYjcI98UbZuMfOH8FVF0gGKPXEvMd/view"
             target="_blank"
             rel="noopener noreferrer"
           >
