@@ -123,7 +123,7 @@ const Home = () => {
           {" "}
           from Singapore{" "}
           <span role="img" aria-label="Singapore Flag emoji">
-            🇺🇦
+            &#127480;
           </span>
         </h1>
 
