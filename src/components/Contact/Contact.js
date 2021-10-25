@@ -17,7 +17,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>charleskao0831y@gmail.com</span>
+            <span>fullstack831@gmail.com</span>
           </div>
         </div>
 
@@ -49,7 +49,7 @@ const Contact = () => {
             {/* <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/Charles Kao-912296215/"
+              href="https://www.linkedin.com/in/Pavel-912296215/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a> */}

@@ -11,7 +11,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Charles Kao
+          Pavel
         </a>{" "}
       </h2>
     </div>

@@ -4,7 +4,7 @@
 
 ### Demo Video
 
-### Link :link: https://yaroslav.vercel.app/
+### Link :link: https://pavel.vercel.app/
 
 ## Images
 
