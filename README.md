@@ -4,7 +4,7 @@
 
 ### Demo Video
 
-### Link :link: https://pavel.vercel.app/
+### Link :link: https://Toru Eguchi.vercel.app/
 
 ## Images
 
@@ -16,7 +16,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/webdev0831.git`
+- Run this command `git clone https://github.com/chaindev831.git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack

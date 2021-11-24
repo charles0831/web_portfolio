@@ -38,7 +38,7 @@ const Nav = () => {
         }}
       >
         <span className="logo" onClick={() => scroll.scrollToTop()}>
-          &lt; dev - Pavel /&gt;
+          &lt; dev - Toru Eguchi /&gt;
         </span>
         {/* Mobile Menu Icon */}
         <div className="menu-icon" onClick={handleClick}>

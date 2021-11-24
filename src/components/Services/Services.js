@@ -16,13 +16,13 @@ const Services = () => {
         <div className="services">
           <li>
             <img src={uiImage} alt="" />
-            <p>Full Stack Pavelelopment</p>
+            <p>Full Stack Toru Eguchielopment</p>
           </li>
         </div>
         <div className="services">
           <li>
             <img src={webImage} alt="" />
-            <p>Frontend Pavelelopment</p>
+            <p>Frontend Toru Eguchielopment</p>
           </li>
         </div>
         <div className="services">

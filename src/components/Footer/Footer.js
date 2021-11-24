@@ -7,11 +7,11 @@ const Footer = () => {
       <h2>
         Developer :{" "}
         <a
-          href="https://github.com/webdev0831"
+          href="https://github.com/chaindev831"
           rel="noopener noreferrer"
           target="_blank"
         >
-          Pavel
+          Toru Eguchi
         </a>{" "}
       </h2>
     </div>

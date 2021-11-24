@@ -73,7 +73,7 @@ const Home = () => {
         <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
-          Hi, I’m Pavel
+          Hi, I’m Toru Eguchi
           <motion.span
             drag={true}
             dragConstraints={{ left: 0, top: 0, bottom: 0, right: 0 }}
@@ -98,7 +98,7 @@ const Home = () => {
                 animate="animate"
                 initial="initial"
               >
-                Fullstack Paveleloper
+                Fullstack Toru Eguchieloper
               </motion.h2>
             )}
           </AnimatePresence>
@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/1ZCxRRHsGr38YRpXP1yPWq-IEvIU-gFJh/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Nmb2QJN_bq7jibhtZvlWvuQjTcbwzSyt/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

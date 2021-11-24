@@ -42,7 +42,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/react-brainsshare"
+                href="https://github.com/chaindev831/react-brainsshare"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -86,7 +86,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/NFT-staking-app"
+                href="https://github.com/chaindev831/NFT-staking-app"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -130,7 +130,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/uniclix_app"
+                href="https://github.com/chaindev831/uniclix_app"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -175,7 +175,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/pfron-frontend"
+                href="https://github.com/chaindev831/pfron-frontend"
               >
                 <i className="fab fa-github" title="github repo" id="github">
                   {" "}
@@ -219,7 +219,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/ibs-frontend"
+                href="https://github.com/chaindev831/ibs-frontend"
               >
                 <i
                   className="fab fa-github"
@@ -264,7 +264,7 @@ const Portfolio = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/webdev0831/react-material-ui-camera"
+                href="https://github.com/chaindev831/react-material-ui-camera"
               >
                 <i
                   className="fab fa-github"
@@ -291,7 +291,7 @@ const Portfolio = () => {
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://github.com/webdev0831"
+        href="https://github.com/chaindev831"
         className="button-link"
       >
         <button className="button">More Projects</button>

@@ -33,7 +33,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/webdev0831/"
+              href="https://github.com/chaindev831/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
@@ -49,7 +49,7 @@ const Contact = () => {
             {/* <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/Pavel-912296215/"
+              href="https://www.linkedin.com/in/Toru Eguchi-912296215/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a> */}
